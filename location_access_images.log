@@ -1,0 +1,6 @@
+
+127.0.0.1 - - [20/Mar/2020:03:11:59 +0530] "GET /images/ HTTP/1.1" 404 187 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/80.0.3987.132 Chrome/80.0.3987.132 Safari/537.36"
+127.0.0.1 - - [20/Mar/2020:03:12:04 +0530] "GET /images/ HTTP/1.1" 404 187 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/80.0.3987.132 Chrome/80.0.3987.132 Safari/537.36"
+127.0.0.1 - - [20/Mar/2020:03:12:34 +0530] "GET /images/wall.png HTTP/1.1" 404 187 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/80.0.3987.132 Chrome/80.0.3987.132 Safari/537.36"
+127.0.0.1 - - [20/Mar/2020:03:13:29 +0530] "GET /images/wall.png HTTP/1.1" 200 3957991 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/80.0.3987.132 Chrome/80.0.3987.132 Safari/537.36"
+127.0.0.1 - - [20/Mar/2020:03:13:58 +0530] "GET /images/ HTTP/1.1" 200 178 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/80.0.3987.132 Chrome/80.0.3987.132 Safari/537.36"

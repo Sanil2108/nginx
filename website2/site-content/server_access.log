@@ -1,0 +1,6 @@
+
+127.0.0.1 - - [21/Mar/2020:04:25:25 +0530] "GET /site-content/home.html HTTP/1.1" 404 555 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/80.0.3987.132 Chrome/80.0.3987.132 Safari/537.36"
+127.0.0.1 - - [21/Mar/2020:04:26:27 +0530] "GET /site-content/home.html HTTP/1.1" 200 84 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/80.0.3987.132 Chrome/80.0.3987.132 Safari/537.36"
+127.0.0.1 - - [21/Mar/2020:04:30:31 +0530] "GET /site-content/home.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/80.0.3987.132 Chrome/80.0.3987.132 Safari/537.36"
+127.0.0.1 - - [21/Mar/2020:04:35:29 +0530] "GET /site-content/ HTTP/1.1" 200 640 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/80.0.3987.132 Chrome/80.0.3987.132 Safari/537.36"
+127.0.0.1 - - [21/Mar/2020:04:35:34 +0530] "GET /site-content/server_access.log HTTP/1.1" 200 909 "http://localhost:8080/site-content/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/80.0.3987.132 Chrome/80.0.3987.132 Safari/537.36"
